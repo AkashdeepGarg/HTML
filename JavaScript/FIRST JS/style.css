@@ -1,0 +1,30 @@
+p{
+	width: 300px;
+	margin: 0;
+	padding-bottom: 20px;
+}
+
+#name{
+	background-color: green;
+	font-family: algerian;
+	color: yellow;
+	font-size: 30px;
+}
+
+#regno{
+	font-size: 20px;
+	color: red;
+	background-color: pink;
+}
+#ccode{
+	font-size: 32px;
+	color: purple;
+	background-color: cyan;
+}
+
+#cname{
+	font-size: 26px;
+	font-family: arial;
+	color: brown;
+	background-color: orange;
+}
